@@ -12,7 +12,7 @@ import org.junit.Before;
 import homework.tools.ExcelDataImporter;
 import homework.utils.EMProducer;
 import homework.utils.SystemException;
-/** Base Test */
+/** Base Test<BR>*/
 public class BaseTest {
 
 	static {
